@@ -15628,3 +15628,243 @@ Login_002 is started
 
 2024-12-10 23:52:11,714 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 85 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is completed
 
+2024-12-12 22:26:29,180 - INFO - test_CheckOut_008 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:26:29,180 - INFO - test_CheckOut_008 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:26:29,180 - INFO - test_CheckOut_008 - 30 -  Opening Browser
+2024-12-12 22:26:29,180 - INFO - test_CheckOut_008 - 30 -  Opening Browser
+2024-12-12 22:26:30,448 - INFO - test_CheckOut_008 - 33 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-12 22:26:30,448 - INFO - test_CheckOut_008 - 33 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-12 22:26:30,448 - INFO - test_CheckOut_008 - 34 -  Entering email :Credencetest@test.com
+2024-12-12 22:26:30,448 - INFO - test_CheckOut_008 - 34 -  Entering email :Credencetest@test.com
+2024-12-12 22:26:30,578 - INFO - test_CheckOut_008 - 37 -  Entering password :Credence@123
+2024-12-12 22:26:30,578 - INFO - test_CheckOut_008 - 37 -  Entering password :Credence@123
+2024-12-12 22:26:30,677 - INFO - test_CheckOut_008 - 39 -  Clicking Login button
+2024-12-12 22:26:30,677 - INFO - test_CheckOut_008 - 39 -  Clicking Login button
+2024-12-12 22:26:33,044 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:26:33,044 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:26:33,044 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-12 22:26:33,044 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-12 22:26:33,044 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-12 22:26:33,044 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-12 22:26:33,044 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-12 22:26:33,044 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-12 22:26:33,044 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-12 22:26:33,044 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-12 22:26:33,596 - INFO - test_CheckOut_008 - 41 -  Click on Mac book pro
+2024-12-12 22:26:33,596 - INFO - test_CheckOut_008 - 41 -  Click on Mac book pro
+2024-12-12 22:26:33,596 - INFO - test_CheckOut_008 - 42 -  Click on add to cart
+2024-12-12 22:26:33,596 - INFO - test_CheckOut_008 - 42 -  Click on add to cart
+2024-12-12 22:26:33,596 - INFO - test_CheckOut_008 - 43 -  Click on proceed to checkout
+2024-12-12 22:26:33,596 - INFO - test_CheckOut_008 - 43 -  Click on proceed to checkout
+2024-12-12 22:26:35,650 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-12 22:26:35,650 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-12 22:26:35,749 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-12 22:26:35,749 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-12 22:26:35,806 - INFO - test_CheckOut_008 - 45 -   Enter First name
+2024-12-12 22:26:35,806 - INFO - test_CheckOut_008 - 45 -   Enter First name
+2024-12-12 22:26:35,845 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-12 22:26:35,845 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-12 22:26:35,901 - INFO - test_CheckOut_008 - 47 -   Enter Last name
+2024-12-12 22:26:35,901 - INFO - test_CheckOut_008 - 47 -   Enter Last name
+2024-12-12 22:26:35,920 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-12 22:26:35,920 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-12 22:26:35,981 - INFO - test_CheckOut_008 - 49 -   Enter Phone
+2024-12-12 22:26:35,981 - INFO - test_CheckOut_008 - 49 -   Enter Phone
+2024-12-12 22:26:36,047 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-12 22:26:36,047 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-12 22:26:36,084 - INFO - test_CheckOut_008 - 51 -   Enter Address
+2024-12-12 22:26:36,084 - INFO - test_CheckOut_008 - 51 -   Enter Address
+2024-12-12 22:26:36,134 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-12 22:26:36,134 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-12 22:26:36,202 - INFO - test_CheckOut_008 - 53 -   Enter Zipcode
+2024-12-12 22:26:36,202 - INFO - test_CheckOut_008 - 53 -   Enter Zipcode
+2024-12-12 22:26:36,245 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-12 22:26:36,245 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-12 22:26:36,283 - INFO - test_CheckOut_008 - 55 -   Select State
+2024-12-12 22:26:36,283 - INFO - test_CheckOut_008 - 55 -   Select State
+2024-12-12 22:26:36,321 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-12 22:26:36,321 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-12 22:26:36,385 - INFO - test_CheckOut_008 - 57 -   Enter Owner
+2024-12-12 22:26:36,385 - INFO - test_CheckOut_008 - 57 -   Enter Owner
+2024-12-12 22:26:36,398 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-12 22:26:36,398 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-12 22:26:36,467 - INFO - test_CheckOut_008 - 59 -   Enter CVV
+2024-12-12 22:26:36,467 - INFO - test_CheckOut_008 - 59 -   Enter CVV
+2024-12-12 22:26:36,553 - INFO - test_CheckOut_008 - 61 -   Enter Card Number
+2024-12-12 22:26:36,553 - INFO - test_CheckOut_008 - 61 -   Enter Card Number
+2024-12-12 22:26:36,616 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-12 22:26:36,616 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-12 22:26:36,710 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-12 22:26:36,710 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-12 22:26:36,762 - INFO - test_CheckOut_008 - 66 -   Select Year
+2024-12-12 22:26:36,762 - INFO - test_CheckOut_008 - 66 -   Select Year
+2024-12-12 22:26:36,783 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-12 22:26:36,783 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-12 22:26:36,835 - INFO - test_CheckOut_008 - 68 -   Select Month
+2024-12-12 22:26:36,835 - INFO - test_CheckOut_008 - 68 -   Select Month
+2024-12-12 22:26:36,916 - INFO - test_CheckOut_008 - 70 -  Click on checkout
+2024-12-12 22:26:36,916 - INFO - test_CheckOut_008 - 70 -  Click on checkout
+2024-12-12 22:26:37,687 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-12 22:26:37,687 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-12 22:26:37,769 - INFO - test_CheckOut_008 - 72 -  Verifying success message
+2024-12-12 22:26:37,769 - INFO - test_CheckOut_008 - 72 -  Verifying success message
+2024-12-12 22:27:11,400 - INFO - test_CheckOut_008 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:27:11,400 - INFO - test_CheckOut_008 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:27:11,400 - INFO - test_CheckOut_008 - 30 -  Opening Browser
+2024-12-12 22:27:11,400 - INFO - test_CheckOut_008 - 30 -  Opening Browser
+2024-12-12 22:27:12,624 - INFO - test_CheckOut_008 - 33 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-12 22:27:12,624 - INFO - test_CheckOut_008 - 33 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-12 22:27:12,624 - INFO - test_CheckOut_008 - 34 -  Entering email :Credencetest@test.com
+2024-12-12 22:27:12,624 - INFO - test_CheckOut_008 - 34 -  Entering email :Credencetest@test.com
+2024-12-12 22:27:12,759 - INFO - test_CheckOut_008 - 37 -  Entering password :Credence@123
+2024-12-12 22:27:12,759 - INFO - test_CheckOut_008 - 37 -  Entering password :Credence@123
+2024-12-12 22:27:12,840 - INFO - test_CheckOut_008 - 39 -  Clicking Login button
+2024-12-12 22:27:12,840 - INFO - test_CheckOut_008 - 39 -  Clicking Login button
+2024-12-12 22:27:16,030 - INFO - test_CheckOut_008 - 41 -  Click on Mac book pro
+2024-12-12 22:27:16,030 - INFO - test_CheckOut_008 - 41 -  Click on Mac book pro
+2024-12-12 22:27:16,030 - INFO - test_CheckOut_008 - 42 -  Click on add to cart
+2024-12-12 22:27:16,030 - INFO - test_CheckOut_008 - 42 -  Click on add to cart
+2024-12-12 22:27:16,030 - INFO - test_CheckOut_008 - 43 -  Click on proceed to checkout
+2024-12-12 22:27:16,030 - INFO - test_CheckOut_008 - 43 -  Click on proceed to checkout
+2024-12-12 22:27:17,504 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:27:17,504 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:27:17,513 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-12 22:27:17,513 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-12 22:27:17,513 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-12 22:27:17,513 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-12 22:27:17,513 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-12 22:27:17,513 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-12 22:27:17,513 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-12 22:27:17,513 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-12 22:27:18,017 - INFO - test_CheckOut_008 - 45 -   Enter First name
+2024-12-12 22:27:18,017 - INFO - test_CheckOut_008 - 45 -   Enter First name
+2024-12-12 22:27:18,131 - INFO - test_CheckOut_008 - 47 -   Enter Last name
+2024-12-12 22:27:18,131 - INFO - test_CheckOut_008 - 47 -   Enter Last name
+2024-12-12 22:27:18,214 - INFO - test_CheckOut_008 - 49 -   Enter Phone
+2024-12-12 22:27:18,214 - INFO - test_CheckOut_008 - 49 -   Enter Phone
+2024-12-12 22:27:18,290 - INFO - test_CheckOut_008 - 51 -   Enter Address
+2024-12-12 22:27:18,290 - INFO - test_CheckOut_008 - 51 -   Enter Address
+2024-12-12 22:27:18,378 - INFO - test_CheckOut_008 - 53 -   Enter Zipcode
+2024-12-12 22:27:18,378 - INFO - test_CheckOut_008 - 53 -   Enter Zipcode
+2024-12-12 22:27:18,434 - INFO - test_CheckOut_008 - 55 -   Select State
+2024-12-12 22:27:18,434 - INFO - test_CheckOut_008 - 55 -   Select State
+2024-12-12 22:27:18,513 - INFO - test_CheckOut_008 - 57 -   Enter Owner
+2024-12-12 22:27:18,513 - INFO - test_CheckOut_008 - 57 -   Enter Owner
+2024-12-12 22:27:18,573 - INFO - test_CheckOut_008 - 59 -   Enter CVV
+2024-12-12 22:27:18,573 - INFO - test_CheckOut_008 - 59 -   Enter CVV
+2024-12-12 22:27:18,642 - INFO - test_CheckOut_008 - 61 -   Enter Card Number
+2024-12-12 22:27:18,642 - INFO - test_CheckOut_008 - 61 -   Enter Card Number
+2024-12-12 22:27:18,859 - INFO - test_CheckOut_008 - 66 -   Select Year
+2024-12-12 22:27:18,859 - INFO - test_CheckOut_008 - 66 -   Select Year
+2024-12-12 22:27:18,942 - INFO - test_CheckOut_008 - 68 -   Select Month
+2024-12-12 22:27:18,942 - INFO - test_CheckOut_008 - 68 -   Select Month
+2024-12-12 22:27:19,016 - INFO - test_CheckOut_008 - 70 -  Click on checkout
+2024-12-12 22:27:19,016 - INFO - test_CheckOut_008 - 70 -  Click on checkout
+2024-12-12 22:27:19,595 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-12 22:27:19,595 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-12 22:27:19,668 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-12 22:27:19,668 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-12 22:27:19,734 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-12 22:27:19,734 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-12 22:27:19,813 - INFO - test_CheckOut_008 - 72 -  Verifying success message
+2024-12-12 22:27:19,813 - INFO - test_CheckOut_008 - 72 -  Verifying success message
+2024-12-12 22:27:19,829 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-12 22:27:19,829 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-12 22:27:19,943 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-12 22:27:19,943 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-12 22:27:20,019 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-12 22:27:20,019 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-12 22:27:20,132 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-12 22:27:20,132 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-12 22:27:20,194 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-12 22:27:20,194 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-12 22:27:20,242 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-12 22:27:20,242 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-12 22:27:20,409 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-12 22:27:20,409 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-12 22:27:20,466 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-12 22:27:20,466 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-12 22:27:20,546 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-12 22:27:20,546 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-12 22:27:21,390 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-12 22:27:21,390 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-12 22:27:31,740 - INFO - test_CheckOut_008 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:27:31,740 - INFO - test_CheckOut_008 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:27:31,740 - INFO - test_CheckOut_008 - 30 -  Opening Browser
+2024-12-12 22:27:31,740 - INFO - test_CheckOut_008 - 30 -  Opening Browser
+2024-12-12 22:27:33,251 - INFO - test_CheckOut_008 - 33 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-12 22:27:33,251 - INFO - test_CheckOut_008 - 33 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-12 22:27:33,251 - INFO - test_CheckOut_008 - 34 -  Entering email :Credencetest@test.com
+2024-12-12 22:27:33,251 - INFO - test_CheckOut_008 - 34 -  Entering email :Credencetest@test.com
+2024-12-12 22:27:33,358 - INFO - test_CheckOut_008 - 37 -  Entering password :Credence@123
+2024-12-12 22:27:33,358 - INFO - test_CheckOut_008 - 37 -  Entering password :Credence@123
+2024-12-12 22:27:33,514 - INFO - test_CheckOut_008 - 39 -  Clicking Login button
+2024-12-12 22:27:33,514 - INFO - test_CheckOut_008 - 39 -  Clicking Login button
+2024-12-12 22:27:36,020 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:27:36,020 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-12 22:27:36,020 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-12 22:27:36,020 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-12 22:27:36,020 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-12 22:27:36,020 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-12 22:27:36,020 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-12 22:27:36,020 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-12 22:27:36,020 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-12 22:27:36,020 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-12 22:27:36,522 - INFO - test_CheckOut_008 - 41 -  Click on Mac book pro
+2024-12-12 22:27:36,522 - INFO - test_CheckOut_008 - 41 -  Click on Mac book pro
+2024-12-12 22:27:36,522 - INFO - test_CheckOut_008 - 42 -  Click on add to cart
+2024-12-12 22:27:36,522 - INFO - test_CheckOut_008 - 42 -  Click on add to cart
+2024-12-12 22:27:36,522 - INFO - test_CheckOut_008 - 43 -  Click on proceed to checkout
+2024-12-12 22:27:36,522 - INFO - test_CheckOut_008 - 43 -  Click on proceed to checkout
+2024-12-12 22:27:38,119 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-12 22:27:38,119 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-12 22:27:38,206 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-12 22:27:38,206 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-12 22:27:38,275 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-12 22:27:38,275 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-12 22:27:38,356 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-12 22:27:38,356 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-12 22:27:38,446 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-12 22:27:38,446 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-12 22:27:38,542 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-12 22:27:38,542 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-12 22:27:38,647 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-12 22:27:38,647 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-12 22:27:38,735 - INFO - test_CheckOut_008 - 45 -   Enter First name
+2024-12-12 22:27:38,735 - INFO - test_CheckOut_008 - 45 -   Enter First name
+2024-12-12 22:27:38,747 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-12 22:27:38,747 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-12 22:27:38,817 - INFO - test_CheckOut_008 - 47 -   Enter Last name
+2024-12-12 22:27:38,817 - INFO - test_CheckOut_008 - 47 -   Enter Last name
+2024-12-12 22:27:38,817 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-12 22:27:38,817 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-12 22:27:38,901 - INFO - test_CheckOut_008 - 49 -   Enter Phone
+2024-12-12 22:27:38,901 - INFO - test_CheckOut_008 - 49 -   Enter Phone
+2024-12-12 22:27:38,985 - INFO - test_CheckOut_008 - 51 -   Enter Address
+2024-12-12 22:27:38,985 - INFO - test_CheckOut_008 - 51 -   Enter Address
+2024-12-12 22:27:39,056 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-12 22:27:39,056 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-12 22:27:39,076 - INFO - test_CheckOut_008 - 53 -   Enter Zipcode
+2024-12-12 22:27:39,076 - INFO - test_CheckOut_008 - 53 -   Enter Zipcode
+2024-12-12 22:27:39,137 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-12 22:27:39,137 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-12 22:27:39,145 - INFO - test_CheckOut_008 - 55 -   Select State
+2024-12-12 22:27:39,145 - INFO - test_CheckOut_008 - 55 -   Select State
+2024-12-12 22:27:39,204 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-12 22:27:39,204 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-12 22:27:39,208 - INFO - test_CheckOut_008 - 57 -   Enter Owner
+2024-12-12 22:27:39,208 - INFO - test_CheckOut_008 - 57 -   Enter Owner
+2024-12-12 22:27:39,279 - INFO - test_CheckOut_008 - 59 -   Enter CVV
+2024-12-12 22:27:39,279 - INFO - test_CheckOut_008 - 59 -   Enter CVV
+2024-12-12 22:27:39,342 - INFO - test_CheckOut_008 - 61 -   Enter Card Number
+2024-12-12 22:27:39,342 - INFO - test_CheckOut_008 - 61 -   Enter Card Number
+2024-12-12 22:27:39,554 - INFO - test_CheckOut_008 - 66 -   Select Year
+2024-12-12 22:27:39,554 - INFO - test_CheckOut_008 - 66 -   Select Year
+2024-12-12 22:27:39,626 - INFO - test_CheckOut_008 - 68 -   Select Month
+2024-12-12 22:27:39,626 - INFO - test_CheckOut_008 - 68 -   Select Month
+2024-12-12 22:27:39,686 - INFO - test_CheckOut_008 - 70 -  Click on checkout
+2024-12-12 22:27:39,686 - INFO - test_CheckOut_008 - 70 -  Click on checkout
+2024-12-12 22:27:40,094 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-12 22:27:40,094 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-12 22:27:40,547 - INFO - test_CheckOut_008 - 72 -  Verifying success message
+2024-12-12 22:27:40,547 - INFO - test_CheckOut_008 - 72 -  Verifying success message
